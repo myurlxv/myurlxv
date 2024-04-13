@@ -1,4 +1,4 @@
-<h3 align="center"> Learning About </h3>
+<h3 align="center"> ✨Learning About✨ </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Android Studio-D9E5FF?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/HTML-D4F4FA?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
