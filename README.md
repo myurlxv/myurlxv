@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center"> Learning About </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Android Studio-D9E5FF?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
